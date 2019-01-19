@@ -5,13 +5,13 @@ Tweak the color scheme of [fish-shell](https://github.com/fish-shell/fish-shell)
 ## Install
 > Note: fish version >=2.3.0 is required.
 
-With [fisherman]
+With [Fisher]
 
 ```
-fisher cbsghost/fish-legacycolor
+fisher add cbsghost/fish-legacycolor
 ```
 
-[fisherman]: https://github.com/fisherman/fisherman
+[Fisher]: https://github.com/jorgebucaran/fisher
 
 ## License
 This is free and unencumbered software released into the public domain.  
